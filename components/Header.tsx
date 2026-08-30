@@ -33,7 +33,7 @@ export default function Header() {
             <Link href="/" className="flex flex-col py-2">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img 
-                src="/assets/logo.png" 
+                src="/assets/logobgremoved.png" 
                 alt="Mahati Buildcon Logo" 
                 className="h-14 w-auto object-contain transition-all duration-300 drop-shadow-md"
               />

@@ -13,7 +13,7 @@ export default function Footer() {
             <div className="bg-white inline-block p-4 rounded-xl shadow-lg">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img 
-                src="/assets/logo.png" 
+                src="/assets/logobgremoved.png" 
                 alt="Mahati Buildcon Logo" 
                 className="h-10 w-auto object-contain"
               />
